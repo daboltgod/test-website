@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to SuperNova
 
-You can use the [editor on GitHub](https://github.com/daboltgod/test-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### A skyblock server for Java and Bedrock Edition Minecraft
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We're a top tier gaming server bringing amazing content such as bosses, custom enchants, custom armor, item skins, and more!
 
 ```markdown
 Syntax highlighted code block
