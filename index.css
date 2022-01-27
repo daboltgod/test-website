@@ -3,4 +3,11 @@
 }
 
 #welcome-heading {
-  
+  text-allign: center;
+  color: white;
+}
+
+#welcome-paragraph {
+  text-allign: center;
+  color: white;
+}
